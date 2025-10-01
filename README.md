@@ -69,7 +69,7 @@ Buffet uses a **Host-Remote** pattern where:
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/yourusername/buffet.git
+git clone https://github.com/kadharmfn/buffet.git
 cd buffet
 
 # Install dependencies
@@ -352,7 +352,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 - [Documentation](https://buffet-docs.example.com)
 - [Demo](https://buffet-demo.example.com)
-- [GitHub](https://github.com/yourusername/buffet)
+- [GitHub](https://github.com/kadharmfn/buffet)
 - [Discord Community](https://discord.gg/buffet)
 - [Twitter](https://twitter.com/buffet_mfe)
 
