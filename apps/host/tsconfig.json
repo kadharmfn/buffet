@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "@buffet/core": ["../../packages/buffet-core/src"],
+      "@buffet/shared-ui": ["../../packages/shared-ui/src"],
+      "@buffet/shared-utils": ["../../packages/shared-utils/src"],
+      "@buffet/shared-types": ["../../packages/shared-types/src"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
+}
